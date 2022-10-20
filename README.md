@@ -2,7 +2,7 @@
 
 
 ## Contributing
-To contribute new comments please use the [Chrome extension](TODO). Manually-created discussions will not appear in the documentation.
+To contribute new comments please use the [Chrome extension](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb). Manually-created discussions will not appear in the documentation.
  
 Please contribute notes on usage, relevant examples, references, and gotchas.  
 Do not ask for help here—use the [Community](https://www.audiokinetic.com/en/community/).  
