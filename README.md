@@ -1,11 +1,8 @@
 ![Developer notes for Wwise Docs](https://user-images.githubusercontent.com/21963717/196835384-fba7aad6-9e0e-45b7-a520-cb3fd06b6d0e.png)
 
 
-## Contributing
-To contribute new comments please use the extension for your browser:
-
-- [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
+## Viewing and contributing notes
+See the [Developer Notes](https://github.com/Developer-Notes-Extension) page for links to the extension.
  
 > **Warning**  
 > Please only contribute notes on usage, relevant examples, references, and gotchas.  
