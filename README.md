@@ -8,6 +8,7 @@ See the [Developer Notes](https://github.com/Developer-Notes-Extension) page for
 > Please only contribute notes on usage, relevant examples, references, and gotchas.  
 > Do not ask for help here—use the [Community](https://www.audiokinetic.com/en/community/).  
 > Do not report bugs here—use the [Bug Reporter](https://www.audiokinetic.com/library/edge/?source=InstallGuide&id=reporting_bugs).
+> Do not post AI-generated content.
 
 ## Supported sites
 - [Wwise Documentation](https://www.audiokinetic.com/library/)
